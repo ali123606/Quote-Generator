@@ -19,7 +19,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 2.5rem;
-    border-radius: 0.625rem;
+    border-radius: 4rem;
     text-align: center;
     box-shadow: 0 0 10.25rem rgba(228, 219, 219, 0.741);
 }
@@ -68,7 +68,7 @@ body {
 .quote-box button {
     background: rgba(23, 123, 229, 0.855);
     color: #fff;
-    border-radius: 1.5625rem;
+    border-radius: 3rem;
     /* 25px converted to rem */
     width: 9.375rem;
     height: 3.125rem;
